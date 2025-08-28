@@ -1,6 +1,6 @@
 {
   "name": "ew-nomoreleaks-harperdb",
-  "version": "0.0.28",
+  "version": "0.0.29",
   "description": "Check known userid/passwd against DB.",
   "main": "main.ts",
   "config": {
